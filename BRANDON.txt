@@ -1,0 +1,1 @@
+cmd /c "C:\Users\brand\OneDrive\Documents\GitHub\stable-diffusion-webui\venv\Scripts\python.exe" pickle_scan.py models > scan_output.txt
